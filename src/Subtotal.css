@@ -1,0 +1,34 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+.subtotal_gift{
+    display: flex;
+    align-items: center;
+}
+.checkoutButton{
+    background-color: #eebd4b;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    color: #111;
+    cursor: pointer;
+
+}
+.checkoutButton:hover{
+    background-color: #faf9f6;
+    
+}
