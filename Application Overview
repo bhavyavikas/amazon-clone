@@ -1,0 +1,5 @@
+This Amazon clone web application is simply just a similar looking website like Amazon wherein a user can create their account and sign in. 
+It allows users to Add products to their cart and navigate to their shopping cart to view their final products and view the subtotal amount for the products.
+If the users wish to choose another product then tey can navigate to the homescreen by clicking in the amazon logo and select their products.
+
+The styling of the application is developed using CSS3 and the functionalities are combined with ReactJS
